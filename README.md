@@ -18,7 +18,10 @@ After this lesson, you'll be able to
 
 ## Instructors code alongs
 
+[ML WorkFlow](https://github.com/commit-live-students/machine-learning-workflow/notebooks/ml_workflow_lecture.ipynb)
 
-## Assignments 
+## Assignments
+
+Login into commit.live to access assignments.
 
 ## Resources & Post Reads
