@@ -18,7 +18,7 @@ After this lesson, you'll be able to
 
 ## Instructors code alongs
 
-[ML WorkFlow](https://github.com/commit-live-students/machine-learning-workflow/notebooks/ml_workflow_lecture.ipynb)
+[ML WorkFlow](https://github.com/commit-live-students/machine-learning-workflow/blob/master/notebooks/ml_workflow_lecture.ipynb)
 
 ## Assignments
 
